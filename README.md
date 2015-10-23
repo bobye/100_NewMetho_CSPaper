@@ -31,6 +31,8 @@ Viola, Paul, and Michael Jones. "Rapid object detection using a boosted cascade 
 
 Belongie, Serge, Jitendra Malik, and Jan Puzicha. "Shape matching and object recognition using shape contexts." Pattern Analysis and Machine Intelligence, IEEE Transactions on 24.4 (2002): 509-522.
 
+Csurka, Gabriella, et al. "Visual categorization with bags of keypoints." Workshop on statistical learning in computer vision, ECCV. Vol. 1. No. 1-22. 2004.
+
 Li, Jia, and James Z. Wang. "Real-time computerized annotation of pictures." Pattern Analysis and Machine Intelligence, IEEE Transactions on 30.6 (2008): 985-1002.
 
 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012.
