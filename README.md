@@ -1,5 +1,5 @@
 # 100_NewMetho_CSPaper
-100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks).
+100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks). The selection has been very mathematics or methodology flavored. Suggestions are welcomed (just send a pull request).
 
 Current Counts: **93**
 ## Mathematics and Statistics
