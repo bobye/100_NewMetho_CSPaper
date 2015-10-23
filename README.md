@@ -17,7 +17,7 @@ Benamou, Jean-David, and Yann Brenier. "A computational fluid mechanics solution
 
 Frangakis, Constantine E., and Donald B. Rubin. "Principal stratification in causal inference." Biometrics 58.1 (2002): 21-29.
 
-Arulampalam, M. Sanjeev, et al. "A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking." Signal Processing, IEEE Transactions on 50.2 (2002): 174-188.
+Arulampalam, M. Sanjeev, et al. "A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking." Signal Processing, IEEE Transactions on 50.2 (2002): 174-188. [[pdf](http://moodle.technion.ac.il/pluginfile.php/179706/mod_resource/content/0/2010/particle-filters1.pdf)]  [[discussion](https://github.com/bobye/100_NewMetho_CSPaper/issues/2)]
 
 Neal, Radford M. "Slice sampling." Annals of statistics (2003): 705-741.
 
@@ -61,7 +61,7 @@ Turk, Matthew, and Alex Pentland. "Eigenfaces for recognition." Journal of cogni
 
 Tomasi, Carlo, and Takeo Kanade. "Shape and motion from image streams under orthography: a factorization method." International Journal of Computer Vision 9.2 (1992): 137-154.
 
-Shi, Jianbo, and Carlo Tomasi. "Good features to track." Computer Vision and Pattern Recognition, 1994. Proceedings CVPR'94., 1994 IEEE Computer Society Conference on. IEEE, 1994. [pdf](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=323794)  [discussion](https://github.com/bobye/100_NewMetho_CSPaper/issues/1)
+Shi, Jianbo, and Carlo Tomasi. "Good features to track." Computer Vision and Pattern Recognition, 1994. Proceedings CVPR'94., 1994 IEEE Computer Society Conference on. IEEE, 1994. [[pdf](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=323794)]  [[discussion](https://github.com/bobye/100_NewMetho_CSPaper/issues/1)]
 
 Cootes, Timothy F., et al. "Active shape models-their training and application." Computer vision and image understanding 61.1 (1995): 38-59.
 
@@ -69,7 +69,7 @@ Malladi, Ravikanth, James Sethian, and Baba C. Vemuri. "Shape modeling with fron
 
 Olshausen, Bruno A. "Emergence of simple-cell receptive field properties by learning a sparse code for natural images." Nature 381.6583 (1996): 607-609.
 
-Isard, Michael, and Andrew Blake. "Condensation—conditional density propagation for visual tracking." International journal of computer vision 29.1 (1998): 5-28.
+Isard, Michael, and Andrew Blake. "Condensation—conditional density propagation for visual tracking." International journal of computer vision 29.1 (1998): 5-28. [[pdf](http://www.stat.ucla.edu/~sczhu/courses/UCLA/Stat_202C/lecture_note/Particle_filtering_Isard_1998.pdf)]  [[discussion](https://github.com/bobye/100_NewMetho_CSPaper/issues/3)]
 
 Itti, Laurent, Christof Koch, and Ernst Niebur. "A model of saliency-based visual attention for rapid scene analysis." IEEE Transactions on Pattern Analysis & Machine Intelligence 11 (1998): 1254-1259.
 
@@ -93,7 +93,7 @@ Viola, Paul, and Michael Jones. "Rapid object detection using a boosted cascade 
 
 Belongie, Serge, Jitendra Malik, and Jan Puzicha. "Shape matching and object recognition using shape contexts." Pattern Analysis and Machine Intelligence, IEEE Transactions on 24.4 (2002): 509-522.
 
-KaewTraKulPong, Pakorn, and Richard Bowden. "An improved adaptive background mixture model for real-time tracking with shadow detection." Video-based surveillance systems. Springer US, 2002. 135-144.
+Stauffer, Chris, and W. Eric L. Grimson. "Adaptive background mixture models for real-time tracking." Computer Vision and Pattern Recognition, 1999. IEEE Computer Society Conference on.. Vol. 2. IEEE, 1999. [[pdf](http://virtualhost.cs.columbia.edu/~jrk/csw4735/public_html/misc/19_04.pdf)]  [[discussion](https://github.com/bobye/100_NewMetho_CSPaper/issues/4)]
 
 Comaniciu, Dorin, and Peter Meer. "Mean shift: A robust approach toward feature space analysis." Pattern Analysis and Machine Intelligence, IEEE Transactions on 24.5 (2002): 603-619.
 
