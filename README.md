@@ -36,10 +36,11 @@ Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classificati
 ## Natural Language Processing
 
 ## Machine Learning
+Cohn, David A., Zoubin Ghahramani, and Michael I. Jordan. "Active learning with statistical models." Journal of artificial intelligence research (1996).
 
 Tenenbaum, Joshua B., Vin De Silva, and John C. Langford. "A global geometric framework for nonlinear dimensionality reduction." Science 290.5500 (2000): 2319-2323.
 
-Xing, Eric P., et al. "Distance metric learning with application to clustering with side-information." Advances in neural information processing systems. 2002.
+Xing, Eric P., Michael I. Jordan, Stuart Russell, and Andrew Y. Ng. "Distance metric learning with application to clustering with side-information." In Advances in neural information processing systems, pp. 505-512. 2002.
 
 Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." the Journal of machine Learning research 3 (2003): 993-1022.
 
