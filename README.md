@@ -4,7 +4,7 @@
 __How it works?__
   Start from one of the 100 seeding papers, and discuss its surrounding literature at a Github issue post. The discussion  would focus on its contribuions, caveats, related ideas and followed work. Discussions under an related topic can be managed by a milestone, and inactive ones/issues might be closed. The discussion of each paper may also highlight its relations with state-of-the-art approaches today.
 
-Current Counts: **93**
+Current Counts: **94**
 ## Mathematics and Statistics
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
 
@@ -27,6 +27,8 @@ Neal, Radford M. "Slice sampling." Annals of statistics (2003): 705-741.
 Greenshtein, Eitan, and Ya'Acov Ritov. "Persistence in high-dimensional linear predictor selection and the virtue of overparametrization." Bernoulli 10.6 (2004): 971-988.
 
 Zou, Hui. "The adaptive lasso and its oracle properties." Journal of the American statistical association 101.476 (2006): 1418-1429.
+
+Olfati-Saber, Reza, Alex Fax, and Richard M. Murray. "Consensus and cooperation in networked multi-agent systems." Proceedings of the IEEE 95.1 (2007): 215-233.
 
 Clauset, Aaron, Cosma Rohilla Shalizi, and Mark EJ Newman. "Power-law distributions in empirical data." SIAM review 51.4 (2009): 661-703.
 
@@ -200,5 +202,4 @@ Bemporad, Alberto, et al. "The explicit linear quadratic regulator for constrain
 Brown, Michael PS, et al. "Knowledge-based analysis of microarray gene expression data by using support vector machines." Proceedings of the National Academy of Sciences 97.1 (2000): 262-267.
 
 ## Information Theory
-
 Donoho, David L. "Compressed sensing." Information Theory, IEEE Transactions on 52.4 (2006): 1289-1306.
