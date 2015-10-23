@@ -1,7 +1,7 @@
 # 100_NewMetho_CSPaper
 100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks).
 
-Current Counts: **82**
+Current Counts: **91**
 ## Mathematics and Statistics
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
 
@@ -115,6 +115,23 @@ Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classificati
 Rabiner, Lawrence R. "A tutorial on hidden Markov models and selected applications in speech recognition." Proceedings of the IEEE 77.2 (1989): 257-286.
 
 ## Natural Language Processing
+Koskenniemi, Kimmo. "A general computational model for word-form recognition and production." Proceedings of the 10th international conference on Computational Linguistics. Association for Computational Linguistics, 1984.
+
+Brown, Peter F., et al. "The mathematics of statistical machine translation: Parameter estimation." Computational linguistics 19.2 (1993): 263-311.
+
+Marcus, Mitchell P., Mary Ann Marcinkiewicz, and Beatrice Santorini. "Building a large annotated corpus of English: The Penn Treebank." Computational linguistics 19.2 (1993): 313-330.
+
+Brill, Eric. "Transformation-based error-driven learning and natural language processing: A case study in part-of-speech tagging." Computational linguistics 21.4 (1995): 543-565.
+
+Berger, Adam L., Vincent J. Della Pietra, and Stephen A. Della Pietra. "A maximum entropy approach to natural language processing." Computational linguistics 22.1 (1996): 39-71.
+
+Collins, Michael. "Three generative, lexicalised models for statistical parsing." Proceedings of the 35th Annual Meeting of the Association for Computational Linguistics and Eighth Conference of the European Chapter of the Association for Computational Linguistics. Association for Computational Linguistics, 1997.
+
+Lin, Dekang. "Automatic retrieval and clustering of similar words." Proceedings of the 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics-Volume 2. Association for Computational Linguistics, 1998.
+
+Klein, Dan, and Christopher D. Manning. "Accurate unlexicalized parsing." Proceedings of the 41st Annual Meeting on Association for Computational Linguistics-Volume 1. Association for Computational Linguistics, 2003.
+
+Collins, Michael, and Terry Koo. "Discriminative reranking for natural language parsing." Computational Linguistics 31.1 (2005): 25-70.
 
 ## Machine Learning
 
