@@ -1,7 +1,7 @@
 # 100_NewMetho_CSPaper
 100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks).
 
-Current Counts: **91**
+Current Counts: **92**
 ## Mathematics and Statistics
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
 
@@ -132,6 +132,8 @@ Lin, Dekang. "Automatic retrieval and clustering of similar words." Proceedings 
 Klein, Dan, and Christopher D. Manning. "Accurate unlexicalized parsing." Proceedings of the 41st Annual Meeting on Association for Computational Linguistics-Volume 1. Association for Computational Linguistics, 2003.
 
 Collins, Michael, and Terry Koo. "Discriminative reranking for natural language parsing." Computational Linguistics 31.1 (2005): 25-70.
+
+Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems. 2013.
 
 ## Machine Learning
 
