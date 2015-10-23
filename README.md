@@ -61,7 +61,7 @@ Turk, Matthew, and Alex Pentland. "Eigenfaces for recognition." Journal of cogni
 
 Tomasi, Carlo, and Takeo Kanade. "Shape and motion from image streams under orthography: a factorization method." International Journal of Computer Vision 9.2 (1992): 137-154.
 
-Shi, Jianbo, and Carlo Tomasi. "Good features to track." Computer Vision and Pattern Recognition, 1994. Proceedings CVPR'94., 1994 IEEE Computer Society Conference on. IEEE, 1994.
+Shi, Jianbo, and Carlo Tomasi. "Good features to track." Computer Vision and Pattern Recognition, 1994. Proceedings CVPR'94., 1994 IEEE Computer Society Conference on. IEEE, 1994. [pdf](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=323794)  [discussion](issues/1)
 
 Cootes, Timothy F., et al. "Active shape models-their training and application." Computer vision and image understanding 61.1 (1995): 38-59.
 
