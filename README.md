@@ -1,7 +1,7 @@
 # 100_NewMetho_CSPaper
 100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks).
 
-Current Counts: **92**
+Current Counts: **93**
 ## Mathematics and Statistics
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
 
@@ -16,6 +16,8 @@ Neal, Radford M. "Markov chain sampling methods for Dirichlet process mixture mo
 Benamou, Jean-David, and Yann Brenier. "A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem." Numerische Mathematik 84.3 (2000): 375-393.
 
 Frangakis, Constantine E., and Donald B. Rubin. "Principal stratification in causal inference." Biometrics 58.1 (2002): 21-29.
+
+Arulampalam, M. Sanjeev, et al. "A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking." Signal Processing, IEEE Transactions on 50.2 (2002): 174-188.
 
 Neal, Radford M. "Slice sampling." Annals of statistics (2003): 705-741.
 
