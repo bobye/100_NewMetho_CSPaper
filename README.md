@@ -32,6 +32,8 @@ Shi, Jianbo, and Jitendra Malik. "Normalized cuts and image segmentation." Patte
 
 Rubner, Yossi, Carlo Tomasi, and Leonidas J. Guibas. "The earth mover's distance as a metric for image retrieval." International journal of computer vision 40.2 (2000): 99-121.
 
+Cootes, Timothy F., Gareth J. Edwards, and Christopher J. Taylor. "Active appearance models." IEEE Transactions on Pattern Analysis & Machine Intelligence 6 (2001): 681-685.
+
 Lafferty, John, Andrew McCallum, and Fernando CN Pereira. "Conditional random fields: Probabilistic models for segmenting and labeling sequence data." (2001).
 
 Oliva, Aude, and Antonio Torralba. "Modeling the shape of the scene: A holistic representation of the spatial envelope." International journal of computer vision 42.3 (2001): 145-175.
