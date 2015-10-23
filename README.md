@@ -44,6 +44,8 @@ Csurka, Gabriella, et al. "Visual categorization with bags of keypoints." Worksh
 
 Lazebnik, Svetlana, Cordelia Schmid, and Jean Ponce. "Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories." Computer Vision and Pattern Recognition, 2006 IEEE Computer Society Conference on. Vol. 2. IEEE, 2006.
 
+Hou, Xiaodi, and Liqing Zhang. "Saliency detection: A spectral residual approach." Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on. IEEE, 2007.
+
 Li, Jia, and James Z. Wang. "Real-time computerized annotation of pictures." Pattern Analysis and Machine Intelligence, IEEE Transactions on 30.6 (2008): 985-1002.
 
 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012.
