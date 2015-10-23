@@ -1,7 +1,7 @@
 # 100_NewMetho_CSPaper
 100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks).
 
-Current Counts: **80**
+Current Counts: **82**
 ## Mathematics and Statistics
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
 
@@ -117,6 +117,9 @@ Rabiner, Lawrence R. "A tutorial on hidden Markov models and selected applicatio
 ## Natural Language Processing
 
 ## Machine Learning
+
+Ackley, David H., Geoffrey E. Hinton, and Terrence J. Sejnowski. "A learning algorithm for boltzmann machines*." Cognitive science 9.1 (1985): 147-169.
+
 Littlestone, Nick. "Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm." Machine learning 2.4 (1988): 285-318.
 
 Sutton, Richard S. "Learning to predict by the methods of temporal differences." Machine learning 3.1 (1988): 9-44.
@@ -160,6 +163,8 @@ Burges, Chris, et al. "Learning to rank using gradient descent." Proceedings of 
 Tsochantaridis, Ioannis, et al. "Large margin methods for structured and interdependent output variables." Journal of Machine Learning Research. 2005.
 
 Banerjee, Arindam, et al. "Clustering with Bregman divergences." The Journal of Machine Learning Research 6 (2005): 1705-1749.
+
+Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "Reducing the dimensionality of data with neural networks." Science 313.5786 (2006): 504-507.
 
 ## Data Mining and Information Retrieval
 Agrawal, Rakesh, and Ramakrishnan Srikant. "Fast algorithms for mining association rules." Proc. 20th int. conf. very large data bases, VLDB. Vol. 1215. 1994.
