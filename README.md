@@ -66,6 +66,8 @@ Schölkopf, Bernhard, Alexander Smola, and Klaus-Robert Müller. "Nonlinear comp
 
 Tenenbaum, Joshua B., Vin De Silva, and John C. Langford. "A global geometric framework for nonlinear dimensionality reduction." Science 290.5500 (2000): 2319-2323.
 
+Roweis, Sam T., and Lawrence K. Saul. "Nonlinear dimensionality reduction by locally linear embedding." Science 290.5500 (2000): 2323-2326.
+
 Xing, Eric P., Michael I. Jordan, Stuart Russell, and Andrew Y. Ng. "Distance metric learning with application to clustering with side-information." In Advances in neural information processing systems, pp. 505-512. 2002.
 
 Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." the Journal of machine Learning research 3 (2003): 993-1022.
