@@ -12,6 +12,8 @@ Tibshirani, Robert. "Regression shrinkage and selection via the lasso." Journal 
 
 Neal, Radford M. "Markov chain sampling methods for Dirichlet process mixture models." Journal of computational and graphical statistics 9.2 (2000): 249-265.
 
+Benamou, Jean-David, and Yann Brenier. "A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem." Numerische Mathematik 84.3 (2000): 375-393.
+
 ## Computer Graphics and Visualization
 
 Efros, Alexei, and Thomas K. Leung. "Texture synthesis by non-parametric sampling." Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on. Vol. 2. IEEE, 1999.
