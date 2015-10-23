@@ -15,6 +15,11 @@ Neal, Radford M. "Markov chain sampling methods for Dirichlet process mixture mo
 Benamou, Jean-David, and Yann Brenier. "A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem." Numerische Mathematik 84.3 (2000): 375-393.
 
 ## Computer Graphics and Visualization
+Kajiya, James T. "The rendering equation." ACM Siggraph Computer Graphics. Vol. 20. No. 4. ACM, 1986.
+
+Terzopoulos, Demetri, et al. "Elastically deformable models." ACM Siggraph Computer Graphics. Vol. 21. No. 4. ACM, 1987.
+
+Tomasi, Carlo, and Roberto Manduchi. "Bilateral filtering for gray and color images." Computer Vision, 1998. Sixth International Conference on. IEEE, 1998.
 
 Efros, Alexei, and Thomas K. Leung. "Texture synthesis by non-parametric sampling." Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on. Vol. 2. IEEE, 1999.
 
@@ -24,9 +29,19 @@ Pérez, Patrick, Michel Gangnet, and Andrew Blake. "Poisson image editing." ACM 
 ## Computer Vision
 Lucas, Bruce D., and Takeo Kanade. "An iterative image registration technique with an application to stereo vision." IJCAI. Vol. 81. 1981.
 
+Horn, Berthold K., and Brian G. Schunck. "Determining optical flow." 1981 Technical symposium east. International Society for Optics and Photonics, 1981.
+
+Burt, Peter J., and Edward H. Adelson. "The Laplacian pyramid as a compact image code." Communications, IEEE Transactions on 31.4 (1983): 532-540.
+
+Geman, Stuart, and Donald Geman. "Stochastic relaxation, Gibbs distributions, and the Bayesian restoration of images." Pattern Analysis and Machine Intelligence, IEEE Transactions on 6 (1984): 721-741.
+
+Kass, Michael, Andrew Witkin, and Demetri Terzopoulos. "Snakes: Active contour models." International journal of computer vision 1.4 (1988): 321-331.
+
 Turk, Matthew, and Alex Pentland. "Eigenfaces for recognition." Journal of cognitive neuroscience 3.1 (1991): 71-86.
 
 Cootes, Timothy F., et al. "Active shape models-their training and application." Computer vision and image understanding 61.1 (1995): 38-59.
+
+Isard, Michael, and Andrew Blake. "Condensation—conditional density propagation for visual tracking." International journal of computer vision 29.1 (1998): 5-28.
 
 Lowe, David G. "Object recognition from local scale-invariant features." Computer vision, 1999. The proceedings of the seventh IEEE international conference on. Vol. 2. Ieee, 1999.
 
@@ -54,9 +69,17 @@ Li, Jia, and James Z. Wang. "Real-time computerized annotation of pictures." Pat
 
 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012.
 
+## Speech
+Rabiner, Lawrence R. "A tutorial on hidden Markov models and selected applications in speech recognition." Proceedings of the IEEE 77.2 (1989): 257-286.
+
 ## Natural Language Processing
 
 ## Machine Learning
+Littlestone, Nick. "Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm." Machine learning 2.4 (1988): 285-318.
+
+Sutton, Richard S. "Learning to predict by the methods of temporal differences." Machine learning 3.1 (1988): 9-44.
+
+Blumer, Anselm, Andrzej Ehrenfeucht, David Haussler, and Manfred K. Warmuth. "Learnability and the Vapnik-Chervonenkis dimension." Journal of the ACM (JACM) 36, no. 4 (1989): 929-965.
 
 Boser, Bernhard E., Isabelle M. Guyon, and Vladimir N. Vapnik. "A training algorithm for optimal margin classifiers." Proceedings of the fifth annual workshop on Computational learning theory. ACM, 1992.
 
@@ -84,6 +107,7 @@ Agrawal, Rakesh, and Ramakrishnan Srikant. "Fast algorithms for mining associati
 Bemporad, Alberto, et al. "The explicit linear quadratic regulator for constrained systems." Automatica 38.1 (2002): 3-20.
 
 ## Bioinformatics
+Brown, Michael PS, et al. "Knowledge-based analysis of microarray gene expression data by using support vector machines." Proceedings of the National Academy of Sciences 97.1 (2000): 262-267.
 
 ## Information Theory
 
