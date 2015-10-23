@@ -1,5 +1,5 @@
 # 100_NewMetho_CSPaper
-100 new methodological papers in computer science
+100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks).
 
 ## Mathematics and Statistics
 
