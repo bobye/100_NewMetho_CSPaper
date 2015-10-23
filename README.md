@@ -3,11 +3,14 @@
 
 ## Mathematics and Statistics
 
+
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
 
 Osher, Stanley, and James A. Sethian. "Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations." Journal of computational physics 79.1 (1988): 12-49.
 
 Tibshirani, Robert. "Regression shrinkage and selection via the lasso." Journal of the Royal Statistical Society. Series B (Methodological) (1996): 267-288.
+
+Neal, Radford M. "Markov chain sampling methods for Dirichlet process mixture models." Journal of computational and graphical statistics 9.2 (2000): 249-265.
 
 ## Computer Graphics and Visualization
 
@@ -15,15 +18,14 @@ Efros, Alexei, and Thomas K. Leung. "Texture synthesis by non-parametric samplin
 
 Pérez, Patrick, Michel Gangnet, and Andrew Blake. "Poisson image editing." ACM Transactions on Graphics (TOG). Vol. 22. No. 3. ACM, 2003.
 
-Avidan, Shai, and Ariel Shamir. "Seam carving for content-aware image resizing." ACM Transactions on graphics (TOG). Vol. 26. No. 3. ACM, 2007.
-
-
 
 ## Computer Vision
 
 Lowe, David G. "Object recognition from local scale-invariant features." Computer vision, 1999. The proceedings of the seventh IEEE international conference on. Vol. 2. Ieee, 1999.
 
 Shi, Jianbo, and Jitendra Malik. "Normalized cuts and image segmentation." Pattern Analysis and Machine Intelligence, IEEE Transactions on 22.8 (2000): 888-905.
+
+Rubner, Yossi, Carlo Tomasi, and Leonidas J. Guibas. "The earth mover's distance as a metric for image retrieval." International journal of computer vision 40.2 (2000): 99-121.
 
 Viola, Paul, and Michael Jones. "Rapid object detection using a boosted cascade of simple features." Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Conference on. Vol. 1. IEEE, 2001.
 
