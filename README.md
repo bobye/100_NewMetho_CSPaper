@@ -28,8 +28,6 @@ Greenshtein, Eitan, and Ya'Acov Ritov. "Persistence in high-dimensional linear p
 
 Zou, Hui. "The adaptive lasso and its oracle properties." Journal of the American statistical association 101.476 (2006): 1418-1429.
 
-Olfati-Saber, Reza, Alex Fax, and Richard M. Murray. "Consensus and cooperation in networked multi-agent systems." Proceedings of the IEEE 95.1 (2007): 215-233.
-
 Clauset, Aaron, Cosma Rohilla Shalizi, and Mark EJ Newman. "Power-law distributions in empirical data." SIAM review 51.4 (2009): 661-703.
 
 ## Computer Graphics and Visualization
@@ -197,6 +195,8 @@ Agrawal, Rakesh, and Ramakrishnan Srikant. "Fast algorithms for mining associati
 
 ## Control and Optimization
 Bemporad, Alberto, et al. "The explicit linear quadratic regulator for constrained systems." Automatica 38.1 (2002): 3-20.
+
+Olfati-Saber, Reza, Alex Fax, and Richard M. Murray. "Consensus and cooperation in networked multi-agent systems." Proceedings of the IEEE 95.1 (2007): 215-233.
 
 ## Bioinformatics
 Brown, Michael PS, et al. "Knowledge-based analysis of microarray gene expression data by using support vector machines." Proceedings of the National Academy of Sciences 97.1 (2000): 262-267.
