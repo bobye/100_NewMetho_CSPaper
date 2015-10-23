@@ -31,6 +31,8 @@ Viola, Paul, and Michael Jones. "Rapid object detection using a boosted cascade 
 
 Belongie, Serge, Jitendra Malik, and Jan Puzicha. "Shape matching and object recognition using shape contexts." Pattern Analysis and Machine Intelligence, IEEE Transactions on 24.4 (2002): 509-522.
 
+Li, Jia, and James Z. Wang. "Real-time computerized annotation of pictures." Pattern Analysis and Machine Intelligence, IEEE Transactions on 30.6 (2008): 985-1002.
+
 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012.
 
 ## Natural Language Processing
@@ -45,6 +47,9 @@ Xing, Eric P., Michael I. Jordan, Stuart Russell, and Andrew Y. Ng. "Distance me
 Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." the Journal of machine Learning research 3 (2003): 993-1022.
 
 ## Data Mining and Information Retrieval
+
+## Control and Optimization
+Bemporad, Alberto, et al. "The explicit linear quadratic regulator for constrained systems." Automatica 38.1 (2002): 3-20.
 
 
 
