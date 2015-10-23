@@ -15,6 +15,7 @@ Neal, Radford M. "Markov chain sampling methods for Dirichlet process mixture mo
 Benamou, Jean-David, and Yann Brenier. "A computational fluid mechanics solution to the Monge-Kantorovich mass transfer problem." Numerische Mathematik 84.3 (2000): 375-393.
 
 ## Computer Graphics and Visualization
+Cootes, Timothy F., et al. "Active shape models-their training and application." Computer vision and image understanding 61.1 (1995): 38-59.
 
 Efros, Alexei, and Thomas K. Leung. "Texture synthesis by non-parametric sampling." Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on. Vol. 2. IEEE, 1999.
 
