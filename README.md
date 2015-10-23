@@ -1,9 +1,8 @@
 # 100_NewMetho_CSPaper
 100 new methodological papers in computer science (which has not yet, maybe, appeared in standard textbooks).
 
+Current Counts: **80**
 ## Mathematics and Statistics
-
-
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
 
 Osher, Stanley, and James A. Sethian. "Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations." Journal of computational physics 79.1 (1988): 12-49.
@@ -40,9 +39,6 @@ Tomasi, Carlo, and Roberto Manduchi. "Bilateral filtering for gray and color ima
 Efros, Alexei, and Thomas K. Leung. "Texture synthesis by non-parametric sampling." Computer Vision, 1999. The Proceedings of the Seventh IEEE International Conference on. Vol. 2. IEEE, 1999.
 
 Pérez, Patrick, Michel Gangnet, and Andrew Blake. "Poisson image editing." ACM Transactions on Graphics (TOG). Vol. 22. No. 3. ACM, 2003.
-
-
-
 
 ## Computer Vision
 Lucas, Bruce D., and Takeo Kanade. "An iterative image registration technique with an application to stereo vision." IJCAI. Vol. 81. 1981.
@@ -166,7 +162,6 @@ Tsochantaridis, Ioannis, et al. "Large margin methods for structured and interde
 Banerjee, Arindam, et al. "Clustering with Bregman divergences." The Journal of Machine Learning Research 6 (2005): 1705-1749.
 
 ## Data Mining and Information Retrieval
-
 Agrawal, Rakesh, and Ramakrishnan Srikant. "Fast algorithms for mining association rules." Proc. 20th int. conf. very large data bases, VLDB. Vol. 1215. 1994.
 
 ## Control and Optimization
@@ -178,4 +173,3 @@ Brown, Michael PS, et al. "Knowledge-based analysis of microarray gene expressio
 ## Information Theory
 
 Donoho, David L. "Compressed sensing." Information Theory, IEEE Transactions on 52.4 (2006): 1289-1306.
-
